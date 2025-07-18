@@ -1,12 +1,10 @@
 import "./App.css"
-
+import Nav from "./Components/Navbar"
 
 const App = () => {
   return (
     <div>
-      <>
-      <div className="nav">hello word</div>
-      </>
+      <Nav/>
     </div>
   )
 }
